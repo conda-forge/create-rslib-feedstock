@@ -4,7 +4,7 @@
 
 [project]
 name = "create-rslib-feedstock"
-version = "3.45.2"
+version = "3.45.4"
 description = "Pixi configuration for conda-forge/create-rslib-feedstock"
 authors = ["@conda-forge/create-rslib"]
 channels = ["conda-forge"]
