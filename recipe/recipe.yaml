@@ -1,5 +1,5 @@
 context:
-  version: "0.6.5"
+  version: "0.6.6"
 
 package:
   name: create-rslib
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/create-rslib/-/create-rslib-${{ version }}.tgz
-  sha256: 375692ebbaa8fc6c6bc08ea2e4575fda2d9e55d3b6a44f37e87a4ad665c6b5d4
+  sha256: b409d06a89e42c167f453624149eb5607e1b74a4c0128730cd6b2fe006d2e61d
 
 build:
   number: 0
